@@ -1,1 +1,1 @@
-**Various data resources are stored here**
+**Various data resources are stored here.**
